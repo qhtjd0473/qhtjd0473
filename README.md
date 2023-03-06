@@ -1,7 +1,7 @@
 <div align=center>
 
- ![avatar](avatar.png){:style="border-radius:100%" }
- 
+ ![avatar](avatar.png)
+ <br />
   <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JAVAscript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -18,9 +18,11 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:qhtjd0473@gmail.com">
   </a>
   </div>
-
+  <br />
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhtjd0473&show_icons=true&theme=radical)
+  <br />
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhtjd0473&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
