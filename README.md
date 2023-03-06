@@ -24,6 +24,7 @@ public class IntroduceMyself {
     ];
 }
 ```
+<div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JAVAscript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -38,6 +39,7 @@ public class IntroduceMyself {
 <a href="https://instagram.com/b9__s7">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:qhtjd0473@gmail.com">
 </a>
+</div>
 
 
 
