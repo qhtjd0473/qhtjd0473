@@ -1,5 +1,10 @@
-<div style="text-align:center">
-  <img src="avatar.png" style="border-radius:100%">
+<style>
+	.avatar{
+    border-radius: 100%;
+  }			
+</style>
+<div align=center>
+  <img src="avatar.png" class="avatar">
   <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JAVAscript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
