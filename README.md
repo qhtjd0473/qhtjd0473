@@ -1,5 +1,5 @@
-<center>
-  <img src="avatar.png" style="border-radius:200px">
+<div style="text-align:center">
+  <img src="avatar.png" style="border-radius:100%">
   <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JAVAscript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -21,4 +21,4 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhtjd0473&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhtjd0473&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+</div>
