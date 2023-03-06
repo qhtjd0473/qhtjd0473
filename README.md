@@ -1,16 +1,46 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:800080,40:800080,100:00aaff&height=350&section=header&text=BOBOBO&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=10:8b00ff,50:0099aa,100:bfff00&height=350&section=header&text=BOBOBO&fontSize=90)
 ```java
 public class IntroduceMyself {
 
-  public String myName = "BOBOBO";
+  public String myName = 
+    "BOBOBO";
 
-  public final String birthDay = "1997-06-16";
+  public final String birthDay = 
+    "1997-06-16";
 
-  public final String startCoding = "2022-09-01";
+  public final String startCoding = 
+    "2022-09-01";
 
-  public final String email = "qhtjd0473@naver.com";
+  public final String email =
+    "qhtjd0473@naver.com";
 
-  public String[] skills = ["Java", "CSS & JS", "React", "SpringBoot", "MySQL"];
+  public String[] skills = 
+    [
+      "Java", 
+      "CSS & JS", 
+      "React", 
+      "SpringBoot", 
+      "MySQL"
+    ];
 }
 ```
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVAscript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&link=mailto:qhtjd0473@gmail.com">
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white&link=mailto:qhtjd0473@gmail.com">
+<a href="mailto:qhtjd0473@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:qhtjd0473@gmail.com">
+</a>
+<a href="https://instagram.com/b9__s7">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:qhtjd0473@gmail.com">
+</a>
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhtjd0473&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhtjd0473&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
