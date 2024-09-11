@@ -22,6 +22,3 @@
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhtjd0473&show_icons=true&theme=radical)
-  <br />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhtjd0473&layout=compact)
